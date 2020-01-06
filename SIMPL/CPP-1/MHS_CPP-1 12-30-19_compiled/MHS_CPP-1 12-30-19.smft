@@ -1,0 +1,119 @@
+<Device Model="MC3" Name="MC3.">
+   <Network Type="Cresnet" Id="01">
+      <Device Model="C2N-CBD-P" DeviceId="03" Name="1009"/>
+      <Device Model="C2N-CBD-P" DeviceId="04" Name="1007"/>
+      <Device Model="C2N-CBD-P" DeviceId="05" Name="1004"/>
+      <Device Model="C2N-CBD-P" DeviceId="06" Name="1003"/>
+      <Device Model="C2N-CBD-P" DeviceId="07" Name="1002"/>
+      <Device Model="C2N-CBD-P" DeviceId="08" Name="Stair S101"/>
+      <Device Model="C2N-CBD-P" DeviceId="09" Name="1016"/>
+      <Device Model="C2N-CBD-P" DeviceId="0A" Name="1015"/>
+      <Device Model="C2N-CBD-P" DeviceId="0B" Name="1014"/>
+      <Device Model="C2N-CBD-P" DeviceId="0C" Name="1012"/>
+      <Device Model="C2N-CBD-P" DeviceId="0D" Name="1010"/>
+      <Device Model="C2N-CBD-P" DeviceId="0E" Name="1008"/>
+      <Device Model="C2N-CBD-P" DeviceId="0F" Name="1006"/>
+      <Device Model="C2N-CBD-P" DeviceId="10" Name="1013"/>
+      <Device Model="C2N-CBD-P" DeviceId="11" Name="1021"/>
+      <Device Model="C2N-CBD-P" DeviceId="12" Name="1018"/>
+      <Device Model="C2N-CBD-P" DeviceId="13" Name="1017"/>
+      <Device Model="C2N-CBD-P" DeviceId="14" Name="1019B Toilet"/>
+      <Device Model="C2N-CBD-P" DeviceId="15" Name="1019"/>
+      <Device Model="C2N-CBD-P" DeviceId="16" Name="1020"/>
+      <Device Model="C2N-CBD-P" DeviceId="17" Name="1022"/>
+      <Device Model="C2N-CBD-P" DeviceId="18" Name="1024"/>
+      <Device Model="C2N-CBD-P" DeviceId="19" Name="1026"/>
+      <Device Model="C2N-CBD-P" DeviceId="1A" Name="1026-2"/>
+      <Device Model="C2N-CBD-P" DeviceId="1B" Name="1031"/>
+      <Device Model="C2N-CBD-P" DeviceId="1C" Name="1030 Toilet"/>
+      <Device Model="C2N-CBD-P" DeviceId="1D" Name="1029 Toilet"/>
+      <Device Model="C2N-CBD-P" DeviceId="1E" Name="1025"/>
+      <Device Model="C2N-CBD-P" DeviceId="1F" Name="1027"/>
+      <Device Model="C2N-CBD-P" DeviceId="20" Name="1033"/>
+      <Device Model="C2N-CBD-P" DeviceId="21" Name="1035"/>
+      <Device Model="C2N-CBD-P" DeviceId="22" Name="1036"/>
+      <Device Model="C2N-CBD-P" DeviceId="23" Name="1034 girls bath"/>
+      <Device Model="C2N-CBD-P" DeviceId="24" Name="Side Exit @ 1029"/>
+      <Device Model="C2N-CBD-P" DeviceId="25" Name="DO NOT USE"/>
+      <Device Model="C2N-CBD-P" DeviceId="26" Name="1065"/>
+      <Device Model="C2N-CBD-P" DeviceId="27" Name="1064"/>
+      <Device Model="C2N-CBD-P" DeviceId="28" Name="1072 girls bath"/>
+      <Device Model="C2N-CBD-P" DeviceId="29" Name="1074 boys bath"/>
+      <Device Model="C2N-CBD-P" DeviceId="2A" Name="stair 104"/>
+      <Device Model="C2N-CBD-P" DeviceId="2B" Name="1048"/>
+      <Device Model="C2N-CBD-P" DeviceId="2C" Name="1068"/>
+      <Device Model="C2N-CBD-P" DeviceId="2D" Name="1071"/>
+      <Device Model="C2N-CBD-P" DeviceId="2E" Name="1069"/>
+      <Device Model="C2N-CBD-P" DeviceId="2F" Name="1066"/>
+      <Device Model="C2N-CBD-P" DeviceId="30" Name="1056"/>
+      <Device Model="C2N-CBD-P" DeviceId="31" Name="1067"/>
+      <Device Model="C2N-CBD-P" DeviceId="32" Name="1054"/>
+      <Device Model="C2N-CBD-P" DeviceId="33" Name="1070"/>
+      <Device Model="C2N-CBD-P" DeviceId="34" Name="1057"/>
+      <Device Model="C2N-CBD-P" DeviceId="35" Name="1073"/>
+      <Device Model="C2N-CBD-P" DeviceId="36" Name="1050"/>
+      <Device Model="C2N-CBD-P" DeviceId="37" Name="1052"/>
+      <Device Model="C2N-CBD-P" DeviceId="38" Name="1061"/>
+      <Device Model="C2N-CBD-P" DeviceId="39" Name="1047"/>
+      <Device Model="C2N-CBD-P" DeviceId="3A" Name="1049"/>
+      <Device Model="C2N-CBD-P" DeviceId="3B" Name="stairs 103"/>
+      <Device Model="C2N-CBD-P" DeviceId="3C" Name="1051"/>
+      <Device Model="C2N-CBD-P" DeviceId="3D" Name="1058"/>
+      <Device Model="C2N-CBD-P" DeviceId="3E" Name="1053"/>
+      <Device Model="C2N-CBD-P" DeviceId="3F" Name="1076"/>
+      <Device Model="C2N-CBD-P" DeviceId="40" Name="1001E Bath"/>
+      <Device Model="C2N-CBD-P" DeviceId="41" Name="1001D Bath"/>
+      <Device Model="C2N-CBD-P" DeviceId="42" Name="1001J KP1"/>
+      <Device Model="C2N-CBD-P" DeviceId="43" Name="1001J KP2"/>
+      <Device Model="C2N-CBD-P" DeviceId="44" Name="1001L"/>
+      <Device Model="C2N-CBD-P" DeviceId="45" Name="1001M Principlal's Office KP1"/>
+      <Device Model="C2N-CBD-P" DeviceId="46" Name="1001M Principlal's Office KP2"/>
+      <Device Model="C2N-CBD-P" DeviceId="47" Name="1037 Bath"/>
+      <Device Model="C2N-CBD-P" DeviceId="48" Name="1038 KP1"/>
+      <Device Model="C2N-CBD-P" DeviceId="49" Name="1038 KP2"/>
+      <Device Model="C2N-CBD-P" DeviceId="4A" Name="1040D"/>
+      <Device Model="C2N-CBD-P" DeviceId="4B" Name="1001A Admin Office KP1"/>
+      <Device Model="C2N-CBD-P" DeviceId="4C" Name="1001A Admin Office KP2"/>
+      <Device Model="C2N-CBD-P" DeviceId="4D" Name="1097G Bath"/>
+      <Device Model="C2N-CBD-P" DeviceId="4E" Name="Corr C100"/>
+      <Device Model="C2N-CBD-P" DeviceId="4F" Name="1097F Bath"/>
+      <Device Model="C2N-CBD-P" DeviceId="50" Name="1094J"/>
+      <Device Model="C2N-CBD-P" DeviceId="51" Name="1080"/>
+      <Device Model="C2N-CBD-P" DeviceId="52" Name="1082"/>
+      <Device Model="C2N-CBD-P" DeviceId="53" Name="1083"/>
+      <Device Model="C2N-CBD-P" DeviceId="54" Name="Corr 101"/>
+      <Device Model="C2N-CBD-P" DeviceId="55" Name="Corr X"/>
+      <Device Model="C2N-CBD-P" DeviceId="56" Name="1043"/>
+      <Device Model="C2N-CBD-P" DeviceId="57" Name="1045"/>
+      <Device Model="C2N-CBD-P" DeviceId="58" Name="Corr 1041U"/>
+      <Device Model="C2N-CBD-P" DeviceId="59" Name="1041J"/>
+      <Device Model="C2N-CBD-P" DeviceId="5A" Name="1042"/>
+      <Device Model="C2N-CBD-P" DeviceId="5B" Name="1044"/>
+      <Device Model="C2N-CBD-P" DeviceId="5C" Name="1046"/>
+      <Device Model="C2N-CBD-P" DeviceId="5D" Name="1091 Bath"/>
+      <Device Model="C2N-CBD-P" DeviceId="5E" Name="1090 Bath"/>
+      <Device Model="C2N-CBD-P" DeviceId="5F" Name="1084 Bath"/>
+      <Device Model="C2N-CBD-P" DeviceId="60" Name="1085 Bath"/>
+      <Device Model="C2N-CBD-P" DeviceId="61" Name="1079"/>
+      <Device Model="C2N-CBD-P" DeviceId="62" Name="1075"/>
+      <Device Model="C2N-CBD-P" DeviceId="63" Name="1077 Bath"/>
+      <Device Model="C2N-CBD-P" DeviceId="64" Name="1078"/>
+      <Device Model="C2N-CBD-P" DeviceId="65" Name="OVR (does not exist)"/>
+      <Device Model="GLXX-CTRL" DeviceId="9C" Name="LCP-LP1C"/>
+      <Device Model="GLXX-CTRL" DeviceId="9D" Name="LCP-ELP-1A"/>
+      <Device Model="GLXX-CTRL" DeviceId="9E" Name="LCP-LP1B"/>
+      <Device Model="GLXX-CTRL" DeviceId="9F" Name="LCP-LP1A"/>
+      <Device Model="TPS-4,TPS-4L," DeviceId="FD" Name="deadend"/>
+   </Network>
+   <Network Type="Ethernet" Id="02">
+      <Device Model="DIN-DALI-2" DeviceId="A0" Name="CDP-6 #1 .42"/>
+      <Device Model="DIN-DALI-2" DeviceId="A1" Name="CDP-6 #2 .43"/>
+      <Device Model="DIN-DALI-2" DeviceId="A2" Name="CDP-5 #1 .40"/>
+      <Device Model="DIN-DALI-2" DeviceId="A3" Name="CDP-5 #2 .41"/>
+      <Device Model="DIN-DALI-2" DeviceId="A4" Name="CDP-7 #1 .38"/>
+      <Device Model="DIN-DALI-2" DeviceId="A5" Name="CDP-7 #2 .39"/>
+      <Device Model="DIN-DALI-2" DeviceId="A6" Name="CDP-7 #3 .44"/>
+      <Device Model="DIN-DALI-2" DeviceId="A7" Name="CDP-6A .59"/>
+   </Network>
+   <Network Type="RF" Id="03"/>
+</Device>

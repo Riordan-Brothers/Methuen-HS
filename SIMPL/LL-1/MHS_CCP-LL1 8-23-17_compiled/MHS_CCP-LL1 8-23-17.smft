@@ -1,0 +1,49 @@
+<Device Model="MC3" Name="MC3.">
+   <Network Type="Cresnet" Id="01">
+      <Device Model="C2N-CBD-P" DeviceId="03" Name="2075-1"/>
+      <Device Model="C2N-CBD-P" DeviceId="04" Name="2077-1"/>
+      <Device Model="C2N-CBD-P" DeviceId="05" Name="2077-2"/>
+      <Device Model="C2N-CBD-P" DeviceId="06" Name="2075-2"/>
+      <Device Model="C2N-CBD-P" DeviceId="07" Name="2077-3"/>
+      <Device Model="C2N-CBD-P" DeviceId="08" Name="RM2112"/>
+      <Device Model="C2N-CBD-P" DeviceId="09" Name="C217 @ Stair J"/>
+      <Device Model="C2N-CBD-P" DeviceId="0A" Name="C217 @ Media Center"/>
+      <Device Model="C2N-CBD-P" DeviceId="0B" Name="Uppr Lobby @ Media Center"/>
+      <Device Model="C2N-CBD-P" DeviceId="0C" Name="Dine @ Lobby"/>
+      <Device Model="C2N-CBD-P" DeviceId="0D" Name="Bath 1110"/>
+      <Device Model="C2N-CBD-P" DeviceId="0E" Name="Bath 1111"/>
+      <Device Model="C2N-CBD-P" DeviceId="0F" Name="Kitch Hall @ 1109"/>
+      <Device Model="C2N-CBD-P" DeviceId="10" Name="Bath 1103"/>
+      <Device Model="C2N-CBD-P" DeviceId="11" Name="Bath 1104"/>
+      <Device Model="C2N-CBD-P" DeviceId="12" Name="Dine @ Stairs J"/>
+      <Device Model="C2N-CBD-P" DeviceId="13" Name="Dine 1098"/>
+      <Device Model="C2N-CBD-P" DeviceId="25" Name="DO NOT USE"/>
+      <Device Model="C2N-CBD-P" DeviceId="26" Name="L002B Bath Rm"/>
+      <Device Model="C2N-CBD-P" DeviceId="27" Name="L002A Bath Rm"/>
+      <Device Model="C2N-CBD-P" DeviceId="28" Name="L004"/>
+      <Device Model="C2N-CBD-P" DeviceId="29" Name="L005"/>
+      <Device Model="C2N-CBD-P" DeviceId="2A" Name="L006"/>
+      <Device Model="C2N-CBD-P" DeviceId="2B" Name="L007"/>
+      <Device Model="C2N-CBD-P" DeviceId="2C" Name="L008"/>
+      <Device Model="C2N-CBD-P" DeviceId="2D" Name="CL002"/>
+      <Device Model="C2N-CBD-P" DeviceId="2E" Name="ECL1-2"/>
+      <Device Model="C2N-CBD-P" DeviceId="2F" Name="Kitch @ Far Servery"/>
+      <Device Model="C2N-CBD-P" DeviceId="30" Name="Kit @ Produce Cooler"/>
+      <Device Model="C2N-CBD-P" DeviceId="31" Name="OVR"/>
+      <Device Model="GLS-SIM" DeviceId="87" Name="Reading Rm2104 Single LOL's on input 1"/>
+      <Device Model="GLS-SIM" DeviceId="88" Name="Media 1"/>
+      <Device Model="GLS-SIM" DeviceId="89" Name="Media 2"/>
+      <Device Model="GLXX-CTRL" DeviceId="90" Name="ELPL1D"/>
+      <Device Model="GLS-SIM" DeviceId="92" Name="Dine 1"/>
+      <Device Model="GLS-SIM" DeviceId="93" Name="Dine 2"/>
+      <Device Model="GLXX-CTRL" DeviceId="9E" Name="LCP-LP2D"/>
+      <Device Model="GLXX-CTRL" DeviceId="9F" Name="LCP-LPL12"/>
+      <Device Model="TPS-12,TPS-12L" DeviceId="FD" Name="dead end"/>
+   </Network>
+   <Network Type="Ethernet" Id="02">
+      <Device Model="DIN-DALI-2" DeviceId="C2" Name="CDP-8 .37"/>
+      <Device Model="DIN-DALI-2" DeviceId="C4" Name="CDP-13 Rail1 .35"/>
+      <Device Model="DIN-DALI-2" DeviceId="C5" Name="CDP-13 Rail2 .36"/>
+   </Network>
+   <Network Type="RF" Id="03"/>
+</Device>

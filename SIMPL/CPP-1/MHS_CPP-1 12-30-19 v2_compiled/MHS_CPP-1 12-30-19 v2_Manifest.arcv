@@ -1,0 +1,37 @@
+[BEGIN]
+  ObjTp=FSgntr
+  Sgntr=ArchiveManifest
+  RelVrs=4.11.06
+  IsProgram=1
+  TopLevelProgram=MHS_CPP-1 12-30-19 v2.smw
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=MHS_CPP-1 12-30-19 v2.smw
+  Scope=1
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=MHS_CPP-1 12-30-19 v2.sig
+  Scope=1
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=MHS_CPP-1 12-30-19 v2.lpz
+  Scope=1
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=MHS_CPP-1 12-30-19 v2.smft
+  Scope=1
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=MHS_CPP-1 12-30-19 v2.lpz.hash
+  Scope=1
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=press and hold.umc
+  Scope=1
+[END]

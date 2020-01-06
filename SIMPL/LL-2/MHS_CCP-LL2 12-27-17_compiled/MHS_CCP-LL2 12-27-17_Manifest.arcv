@@ -1,0 +1,42 @@
+[BEGIN]
+  ObjTp=FSgntr
+  Sgntr=ArchiveManifest
+  RelVrs=4.08.15
+  IsProgram=1
+  TopLevelProgram=MHS_CCP-LL2 12-27-17.smw
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=MHS_CCP-LL2 12-27-17.smw
+  Scope=1
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=MHS_CCP-LL2 12-27-17.sig
+  Scope=1
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=MHS_CCP-LL2 12-27-17.lpz
+  Scope=1
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=MHS_CCP-LL2 12-27-17.smft
+  Scope=1
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=MHS_CCP-LL2 12-27-17.lpz.hash
+  Scope=1
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=press and hold.umc
+  Scope=1
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=Scene FB 30 Loads MC.umc
+  Scope=1
+[END]

@@ -1,0 +1,108 @@
+<Device Model="MC3" Name="MC3.">
+   <Network Type="Cresnet" Id="01">
+      <Device Model="C2N-CBD-P" DeviceId="18" Name="Control Rm POS1 9459923"/>
+      <Device Model="C2N-CBD-P" DeviceId="19" Name="Control Rm POS2 9342358"/>
+      <Device Model="C2N-CBD-P" DeviceId="1A" Name="Aud Left Backstage 2G Pos2"/>
+      <Device Model="C2N-CBD-P" DeviceId="1B" Name="Aud Left Backstage 2G Pos1"/>
+      <Device Model="C2N-CBD-P" DeviceId="1C" Name="Aud Left EM Exit @ Mezz stair"/>
+      <Device Model="C2N-CBD-P" DeviceId="1D" Name="Aud Left Rear Stage"/>
+      <Device Model="C2N-CBD-P" DeviceId="1E" Name="Aud Right Rear Stage"/>
+      <Device Model="C2N-CBD-P" DeviceId="1F" Name="Aud Right EM Exit @ Stage"/>
+      <Device Model="C2N-CBD-P" DeviceId="20" Name="Aud Mezz @ Back Left Exit"/>
+      <Device Model="C2N-CBD-P" DeviceId="21" Name="Aud Mezz @ Vestibule Exit Left"/>
+      <Device Model="C2N-CBD-P" DeviceId="22" Name="Aud Mezz @ Vestibule Exit Right"/>
+      <Device Model="C2N-CBD-P" DeviceId="23" Name="Aud Mezz @ Back Right Exit"/>
+      <Device Model="C2N-CBD-P" DeviceId="24" Name="CL-006@Stair S"/>
+      <Device Model="C2N-CBD-P" DeviceId="25" Name="DO NOT USE"/>
+      <Device Model="C2N-CBD-P" DeviceId="26" Name="RML022"/>
+      <Device Model="C2N-CBD-P" DeviceId="27" Name="RML1125"/>
+      <Device Model="C2N-CBD-P" DeviceId="28" Name="RM1126"/>
+      <Device Model="C2N-CBD-P" DeviceId="29" Name="RML020"/>
+      <Device Model="C2N-CBD-P" DeviceId="2A" Name="RML021"/>
+      <Device Model="C2N-CBD-P" DeviceId="2B" Name="RML014"/>
+      <Device Model="C2N-CBD-P" DeviceId="2C" Name="RML015"/>
+      <Device Model="C2N-CBD-P" DeviceId="2D" Name="RMLL06"/>
+      <Device Model="C2N-CBD-P" DeviceId="2E" Name="RMLL05"/>
+      <Device Model="C2N-CBD-P" DeviceId="2F" Name="RMLL09 Bath Rm"/>
+      <Device Model="C2N-CBD-P" DeviceId="30" Name="RMLL08 Bath Rm"/>
+      <Device Model="C2N-CBD-P" DeviceId="31" Name="RMLL10"/>
+      <Device Model="C2N-CBD-P" DeviceId="32" Name="RMLL13 Bath Rm"/>
+      <Device Model="C2N-CBD-P" DeviceId="33" Name="RMLL12 Bath Rm"/>
+      <Device Model="C2N-CBD-P" DeviceId="34" Name="RMLL11"/>
+      <Device Model="C2N-CBD-P" DeviceId="35" Name="RMLL25"/>
+      <Device Model="C2N-CBD-P" DeviceId="36" Name="RMLL24"/>
+      <Device Model="C2N-CBD-P" DeviceId="37" Name="RMLL19"/>
+      <Device Model="C2N-CBD-P" DeviceId="38" Name="Corridor @ LL14"/>
+      <Device Model="C2N-CBD-P" DeviceId="39" Name="Corridor @ Art Dept Entry"/>
+      <Device Model="C2N-CBD-P" DeviceId="3A" Name="Corridor @ Art Dept. Side Exit"/>
+      <Device Model="C2N-CBD-P" DeviceId="3B" Name="RMLL07"/>
+      <Device Model="C2N-CBD-P" DeviceId="3C" Name="RMLL38 Front"/>
+      <Device Model="C2N-CBD-P" DeviceId="3D" Name="RMLL30 #1"/>
+      <Device Model="C2N-CBD-P" DeviceId="3E" Name="RMLL38 Middle"/>
+      <Device Model="C2N-CBD-P" DeviceId="3F" Name="RML124 Mens Rm"/>
+      <Device Model="C2N-CBD-P" DeviceId="40" Name="RML123 Ladies Rm"/>
+      <Device Model="C2N-CBD-P" DeviceId="41" Name="RML125 #1 Team Rm 4"/>
+      <Device Model="C2N-CBD-P" DeviceId="42" Name="RML127 Team Rm 2"/>
+      <Device Model="C2N-CBD-P" DeviceId="43" Name="RML126 Team Rm 3"/>
+      <Device Model="C2N-CBD-P" DeviceId="44" Name="RML128 #1 Team Rm 1"/>
+      <Device Model="C2N-CBD-P" DeviceId="45" Name="RML130A"/>
+      <Device Model="C2N-CBD-P" DeviceId="46" Name="C2N-CBD-P NOT on Cresnet"/>
+      <Device Model="C2N-CBD-P" DeviceId="47" Name="RML135 #1"/>
+      <Device Model="C2N-CBD-P" DeviceId="48" Name="RML134"/>
+      <Device Model="C2N-CBD-P" DeviceId="49" Name="RML131A"/>
+      <Device Model="C2N-CBD-P" DeviceId="4A" Name="RMLL36A"/>
+      <Device Model="C2N-CBD-P" DeviceId="4B" Name="Corridor CLL25 @ Boys Locker Rm Entry"/>
+      <Device Model="C2N-CBD-P" DeviceId="4C" Name="RMLL40 Boys Shower"/>
+      <Device Model="C2N-CBD-P" DeviceId="4D" Name="Space 2096D NO LOADS YET"/>
+      <Device Model="C2N-CBD-P" DeviceId="4E" Name="Corridor @ RMLL38 Rear"/>
+      <Device Model="C2N-CBD-P" DeviceId="4F" Name="Stair M @ LL36C"/>
+      <Device Model="C2N-CBD-P" DeviceId="50" Name="RMLL35 Bath Rm"/>
+      <Device Model="C2N-CBD-P" DeviceId="51" Name="RMLL30 #2"/>
+      <Device Model="C2N-CBD-P" DeviceId="52" Name="Rink @ Stair M NO LOADS YET"/>
+      <Device Model="C2N-CBD-P" DeviceId="53" Name="L134 @ Corridor"/>
+      <Device Model="C2N-CBD-P" DeviceId="54" Name="CL124 NO LOADS YET"/>
+      <Device Model="C2N-CBD-P" DeviceId="55" Name="RM125 #2 Team Rm 4"/>
+      <Device Model="C2N-CBD-P" DeviceId="56" Name="Gym Main Entry"/>
+      <Device Model="C2N-CBD-P" DeviceId="57" Name="Rink @ Stair M Corridor"/>
+      <Device Model="C2N-CBD-P" DeviceId="58" Name="Rink Back Entry"/>
+      <Device Model="C2N-CBD-P" DeviceId="59" Name="RML128 #2 Team Rm 1"/>
+      <Device Model="C2N-CBD-P" DeviceId="5A" Name="Corridor CL010 #1 NO LOADS YET"/>
+      <Device Model="C2N-CBD-P" DeviceId="5B" Name="Corridor CL010 #2  NO LOADS YET"/>
+      <Device Model="C2N-CBD-P" DeviceId="5C" Name="Gym Back Side Entry"/>
+      <Device Model="C2N-CBD-P" DeviceId="5D" Name="RML133 @ rear Exit Controls RM134"/>
+      <Device Model="C2N-CBD-P" DeviceId="5E" Name="CLL25 @ Gym Side"/>
+      <Device Model="C2N-CBD-P" DeviceId="5F" Name="RML133 @ Rink Controls RM134"/>
+      <Device Model="C2N-CBD-P" DeviceId="60" Name="RML135 #2"/>
+      <Device Model="C2N-CBD-P" DeviceId="61" Name="Rink Front Entry"/>
+      <Device Model="C2N-CBD-P" DeviceId="62" Name="Catwalk 1"/>
+      <Device Model="C2N-CBD-P" DeviceId="63" Name="Catwalk 2"/>
+      <Device Model="C2N-CBD-P" DeviceId="64" Name="Catwalk 3"/>
+      <Device Model="C2N-CBD-P" DeviceId="65" Name="Catwalk 4"/>
+      <Device Model="C2N-CBD-P" DeviceId="66" Name="Catwalk 5"/>
+      <Device Model="C2N-CBD-P" DeviceId="67" Name="OVR"/>
+      <Device Model="GLS-SIM" DeviceId="80" Name="RMLL38"/>
+      <Device Model="GLS-SIM" DeviceId="81" Name="RMLL30 #1"/>
+      <Device Model="GLS-SIM" DeviceId="82" Name="RMLL30 #2"/>
+      <Device Model="GLS-SIM" DeviceId="83" Name="RM134"/>
+      <Device Model="GLS-SIM" DeviceId="84" Name="RM132"/>
+      <Device Model="GLX-DIMFLV8" DeviceId="86" Name="HDPI-DIM Module 1"/>
+      <Device Model="GLX-DIMFLV8" DeviceId="87" Name="HDPI-DIM Module 2"/>
+      <Device Model="GLXX-CTRL" DeviceId="90" Name="LCP-ELP1E"/>
+      <Device Model="GLXX-CTRL" DeviceId="91" Name="LCP-ELP1G @ CDP-2"/>
+      <Device Model="GLXX-CTRL" DeviceId="92" Name="LCP-ELPL1E DONE"/>
+      <Device Model="GLXX-CTRL" DeviceId="95" Name="LCP-LPL1G @ CDP-4"/>
+      <Device Model="GLXX-CTRL" DeviceId="96" Name="LCP-LELP2G @ CDP-4"/>
+      <Device Model="GLXX-CTRL" DeviceId="97" Name="LCP-LPL1E"/>
+      <Device Model="GLXX-CTRL" DeviceId="9E" Name="LCP-LPL2E"/>
+      <Device Model="GLXX-CTRL" DeviceId="9F" Name="LCP-LP1E"/>
+      <Device Model="TPS-4,TPS-4L," DeviceId="FE" Name="deadend"/>
+   </Network>
+   <Network Type="Ethernet" Id="02">
+      <Device Model="DIN-DALI-2" DeviceId="D0" Name="CDP-1 .51"/>
+      <Device Model="DIN-DALI-2" DeviceId="D1" Name="CDP-3 .52"/>
+      <Device Model="DIN-DALI-2" DeviceId="D2" Name="CDP-9 .53"/>
+      <Device Model="DIN-DALI-2" DeviceId="D3" Name="CDP-2 .54"/>
+      <Device Model="DIN-DALI-2" DeviceId="D4" Name="CDP-4 .55"/>
+   </Network>
+   <Network Type="RF" Id="03"/>
+</Device>

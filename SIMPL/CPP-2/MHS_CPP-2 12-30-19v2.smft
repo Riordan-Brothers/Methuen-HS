@@ -1,0 +1,113 @@
+<Device Model="MC3" Name="MC3.">
+   <Network Type="Cresnet" Id="01">
+      <Device Model="C2N-CBD-P" DeviceId="03" Name="corr @ stairs B"/>
+      <Device Model="C2N-CBD-P" DeviceId="04" Name="rm 2018"/>
+      <Device Model="C2N-CBD-P" DeviceId="05" Name="rm 2017"/>
+      <Device Model="C2N-CBD-P" DeviceId="06" Name="rm 2016"/>
+      <Device Model="C2N-CBD-P" DeviceId="07" Name="rm 2014"/>
+      <Device Model="C2N-CBD-P" DeviceId="08" Name="rm 2012"/>
+      <Device Model="C2N-CBD-P" DeviceId="09" Name="rm 2010"/>
+      <Device Model="C2N-CBD-P" DeviceId="0A" Name="rm 2008"/>
+      <Device Model="C2N-CBD-P" DeviceId="0B" Name="rm 2013"/>
+      <Device Model="C2N-CBD-P" DeviceId="0C" Name="rm 2011"/>
+      <Device Model="C2N-CBD-P" DeviceId="0D" Name="rm 2009"/>
+      <Device Model="C2N-CBD-P" DeviceId="0E" Name="rm 2007"/>
+      <Device Model="C2N-CBD-P" DeviceId="0F" Name="rm 2022"/>
+      <Device Model="C2N-CBD-P" DeviceId="10" Name="rm 2027"/>
+      <Device Model="C2N-CBD-P" DeviceId="11" Name="rm 2029"/>
+      <Device Model="C2N-CBD-P" DeviceId="12" Name="rm 2031"/>
+      <Device Model="C2N-CBD-P" DeviceId="13" Name="rm 2033"/>
+      <Device Model="C2N-CBD-P" DeviceId="14" Name="rm 2036"/>
+      <Device Model="C2N-CBD-P" DeviceId="15" Name="rm 2034"/>
+      <Device Model="C2N-CBD-P" DeviceId="16" Name="rm 2021"/>
+      <Device Model="C2N-CBD-P" DeviceId="17" Name="rm 2023"/>
+      <Device Model="C2N-CBD-P" DeviceId="18" Name="rm 2026"/>
+      <Device Model="C2N-CBD-P" DeviceId="19" Name="rm 2028"/>
+      <Device Model="C2N-CBD-P" DeviceId="1A" Name="rm 2030"/>
+      <Device Model="C2N-CBD-P" DeviceId="1B" Name="rm 2032"/>
+      <Device Model="C2N-CBD-P" DeviceId="1C" Name="rm 2035"/>
+      <Device Model="C2N-CBD-P" DeviceId="1D" Name="rm 2037"/>
+      <Device Model="C2N-CBD-P" DeviceId="1E" Name="rm 2038"/>
+      <Device Model="C2N-CBD-P" DeviceId="1F" Name="rm 2039"/>
+      <Device Model="C2N-CBD-P" DeviceId="20" Name="rm 2040"/>
+      <Device Model="C2N-CBD-P" DeviceId="21" Name="rm 2042"/>
+      <Device Model="C2N-CBD-P" DeviceId="23" Name="rm 2006"/>
+      <Device Model="C2N-CBD-P" DeviceId="24" Name="rm 2003"/>
+      <Device Model="C2N-CBD-P" DeviceId="25" Name="DO NOT USE"/>
+      <Device Model="C2N-CBD-P" DeviceId="26" Name="rm 2004"/>
+      <Device Model="C2N-CBD-P" DeviceId="27" Name="rm 2005"/>
+      <Device Model="C2N-CBD-P" DeviceId="28" Name="Exit Stair @ 2038"/>
+      <Device Model="C2N-CBD-P" DeviceId="29" Name="Hall @ Stair E"/>
+      <Device Model="C2N-CBD-P" DeviceId="2A" Name="rm 2084 mens rm"/>
+      <Device Model="C2N-CBD-P" DeviceId="2B" Name="rm 2082 womens rm"/>
+      <Device Model="C2N-CBD-P" DeviceId="2C" Name="rm 2080"/>
+      <Device Model="C2N-CBD-P" DeviceId="2D" Name="rm 2078"/>
+      <Device Model="C2N-CBD-P" DeviceId="2E" Name="rm 2076"/>
+      <Device Model="C2N-CBD-P" DeviceId="2F" Name="rm 2074"/>
+      <Device Model="C2N-CBD-P" DeviceId="30" Name="rm 2072"/>
+      <Device Model="C2N-CBD-P" DeviceId="31" Name="rm 2081"/>
+      <Device Model="C2N-CBD-P" DeviceId="32" Name="rm 2079"/>
+      <Device Model="C2N-CBD-P" DeviceId="33" Name="rm 2077"/>
+      <Device Model="C2N-CBD-P" DeviceId="34" Name="rm 2075"/>
+      <Device Model="C2N-CBD-P" DeviceId="35" Name="rm 2070"/>
+      <Device Model="C2N-CBD-P" DeviceId="36" Name="Hall @ Stair D"/>
+      <Device Model="C2N-CBD-P" DeviceId="37" Name="rm 2069"/>
+      <Device Model="C2N-CBD-P" DeviceId="38" Name="rm 2067"/>
+      <Device Model="C2N-CBD-P" DeviceId="39" Name="rm 2066"/>
+      <Device Model="C2N-CBD-P" DeviceId="3A" Name="rm 2065"/>
+      <Device Model="C2N-CBD-P" DeviceId="3B" Name="rm 2064"/>
+      <Device Model="C2N-CBD-P" DeviceId="3C" Name="rm 2062"/>
+      <Device Model="C2N-CBD-P" DeviceId="3D" Name="rm 2060"/>
+      <Device Model="C2N-CBD-P" DeviceId="3E" Name="rm 2057"/>
+      <Device Model="C2N-CBD-P" DeviceId="3F" Name="rm 2059"/>
+      <Device Model="C2N-CBD-P" DeviceId="40" Name="rm 2061"/>
+      <Device Model="C2N-CBD-P" DeviceId="41" Name="rm 2063"/>
+      <Device Model="C2N-CBD-P" DeviceId="42" Name="rm 2002"/>
+      <Device Model="C2N-CBD-P" DeviceId="43" Name="C215"/>
+      <Device Model="C2N-CBD-P" DeviceId="44" Name="rm 2001"/>
+      <Device Model="C2N-CBD-P" DeviceId="45" Name="rm 2041"/>
+      <Device Model="C2N-CBD-P" DeviceId="46" Name="2090"/>
+      <Device Model="C2N-CBD-P" DeviceId="47" Name="2093"/>
+      <Device Model="C2N-CBD-P" DeviceId="48" Name="2094"/>
+      <Device Model="C2N-CBD-P" DeviceId="49" Name="2088"/>
+      <Device Model="C2N-CBD-P" DeviceId="4A" Name="2086"/>
+      <Device Model="C2N-CBD-P" DeviceId="4B" Name="2089"/>
+      <Device Model="C2N-CBD-P" DeviceId="4C" Name="2087"/>
+      <Device Model="C2N-CBD-P" DeviceId="4D" Name="2047"/>
+      <Device Model="C2N-CBD-P" DeviceId="4E" Name="2051"/>
+      <Device Model="C2N-CBD-P" DeviceId="4F" Name="2053"/>
+      <Device Model="C2N-CBD-P" DeviceId="50" Name="2097"/>
+      <Device Model="C2N-CBD-P" DeviceId="51" Name="2098"/>
+      <Device Model="C2N-CBD-P" DeviceId="52" Name="2100A"/>
+      <Device Model="C2N-CBD-P" DeviceId="53" Name="2099"/>
+      <Device Model="C2N-CBD-P" DeviceId="54" Name="2100"/>
+      <Device Model="C2N-CBD-P" DeviceId="55" Name="2044"/>
+      <Device Model="C2N-CBD-P" DeviceId="56" Name="2045"/>
+      <Device Model="C2N-CBD-P" DeviceId="57" Name="2046"/>
+      <Device Model="C2N-CBD-P" DeviceId="58" Name="2048"/>
+      <Device Model="C2N-CBD-P" DeviceId="59" Name="2052"/>
+      <Device Model="C2N-CBD-P" DeviceId="5A" Name="2054"/>
+      <Device Model="C2N-CBD-P" DeviceId="5B" Name="2058"/>
+      <Device Model="C2N-CBD-P" DeviceId="5C" Name="SYSTEM OVR"/>
+      <Device Model="GLXX-CTRL" DeviceId="9A" Name="lcp-elp1d"/>
+      <Device Model="GLXX-CTRL" DeviceId="9B" Name="lcp-lp2c"/>
+      <Device Model="GLXX-CTRL" DeviceId="9C" Name="lcp-elp1b (unused)"/>
+      <Device Model="GLXX-CTRL" DeviceId="9D" Name="LCP-LP2A"/>
+      <Device Model="GLXX-CTRL" DeviceId="9E" Name="LCP-LP2B"/>
+      <Device Model="TPS-4,TPS-4L," DeviceId="FD" Name="dead end buffer"/>
+   </Network>
+   <Network Type="Ethernet" Id="02">
+      <Device Model="DIN-DALI-2" DeviceId="B0" Name="DIN-DALI-2 CDP10 rail 1 .49"/>
+      <Device Model="DIN-DALI-2" DeviceId="B1" Name="DIN-DALI-2 CDP10 rail 2 .50"/>
+      <Device Model="DIN-DALI-2" DeviceId="B2" Name="DIN-DALI-2 CDP11 rail 1 .47"/>
+      <Device Model="DIN-DALI-2" DeviceId="B3" Name="DIN-DALI-2 CDP11 rail 2 .48"/>
+      <Device Model="DIN-DALI-2" DeviceId="B4" Name="DIN-DALI-2 CDP10A rail 1 .45"/>
+      <Device Model="DIN-DALI-2" DeviceId="B5" Name="DIN-DALI-2 CDP10A rail 2 .46"/>
+      <Device Model="DIN-DALI-2" DeviceId="B6" Name="CPP-12 #1 .56"/>
+      <Device Model="DIN-DALI-2" DeviceId="B7" Name="CPP-12 #2 .57"/>
+      <Device Model="DIN-DALI-2" DeviceId="B8" Name="CPP-12 #3 .58"/>
+      <Device Model="DIN-DALI-2" DeviceId="B9" Name="CDP-11A #1 .60"/>
+      <Device Model="DIN-DALI-2" DeviceId="BA" Name="CDP-11A #2 .61"/>
+   </Network>
+   <Network Type="RF" Id="03"/>
+</Device>
